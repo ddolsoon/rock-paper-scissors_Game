@@ -7,3 +7,6 @@
 ![noname02](https://user-images.githubusercontent.com/25413011/39909725-0c85169e-552f-11e8-91df-b65d7933984b.png)
 
 
+## 화면 구성도
+
+![image](https://user-images.githubusercontent.com/25413011/39909786-399e8ac0-552f-11e8-8e97-4c228a528528.png)
